@@ -1,5 +1,6 @@
 import PackageDescription
 
+// swift-tools-version:5.3
 let package = Package(
     name: "SwiftRangeSlider",
     platforms: [

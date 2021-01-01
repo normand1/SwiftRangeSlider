@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../../../Volumes/Macintosh HD/Users/davidnorman/Documents/iOS/SwiftRangeSliderPackage">
+   </FileRef>
+   <FileRef
       location = "group:SwiftRangeSlider.xcodeproj">
    </FileRef>
    <FileRef
